@@ -1,0 +1,19 @@
+/*.comment {background: var(--white);padding: 25px;border-radius: 10px;display: flex;gap: 25px;}*/
+/*.comment .score {display: flex;flex-direction: column;align-items: center;gap: 20px;background-color: var(--light-gray);align-self: flex-start;padding: 6.5px;border-radius: 10px;}*/
+/*.comment .score-value {font-size: 1rem;color: var(--moderate-blue);font-weight: 500;}*/
+/*.comment .score-button {padding: 6px 8px;}*/
+/*.comment .score-button:hover svg * {fill: var(--moderate-blue);}*/
+/*.comment .score-button svg * {transition: 0.3s;}*/
+/*.comment .comment-row {display: flex;justify-content: space-between;margin-bottom: 20px;}*/
+/*.comment .user-details {display: flex;gap: 15px;align-items: center;}*/
+/*.comment .user-avatar {width: 30px;height: 30px;}*/
+/*.comment .comment-username {font-size: 1rem;font-weight: 500;}*/
+/*.comment .comment-date {font-size: 0.7rem;color: var(--grayish-blue);}*/
+/*.comment .reply-button {display: flex;align-items: center;gap: 10px;color: var(--moderate-blue);font-weight: 700;font-size: 1rem;transition: 0.3s}*/
+/*.comment .reply-button:hover {opacity: 0.5;}*/
+/*.comment .comment-content {font-size: 1rem;line-height: 1.3;color: var(--grayish-blue);}*/
+
+/*!*Hover states*!*/
+
+
+

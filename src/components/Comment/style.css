@@ -1,0 +1,18 @@
+/*.comment-inner.with-reply .reply {max-width: 90%;margin-inline: auto 0;}*/
+
+/*.comment-inner.with-reply .reply:nth-of-type(2) {margin-top: 20px;}*/
+
+/*.comment-inner.with-reply > * + * {margin-top: 10px;}*/
+
+/*.comment-wrapper > * + * {margin-top: 20px;}*/
+
+/*.comment.reply {position: relative;}*/
+/*.comment.reply:after {content: "";border-left: 2px solid var(--light-gray);position: absolute;left: -70px;top: 0;bottom: 0;height: 110%;}*/
+/*.comment-inner.with-reply {overflow: hidden;}*/
+
+
+/*.reply-form {display: flex;gap: 16px;background: white;padding: 20px;border-radius: 10px;margin-top: 10px;}*/
+/*.reply-form .user-avatar {width: 30px;height: 30px;}*/
+/*.reply-form textarea#reply {border: 1px solid var(--moderate-blue);border-radius: 3px;padding: 10px;flex-grow: 1;height: 90px;}*/
+/*.reply-form button.send-button {padding: 10px 20px;background-color: var(--moderate-blue);color: white;border-radius: 8px;min-width: 104px;font-weight: 400;font-size: 1rem;align-self: flex-start;}*/
+
