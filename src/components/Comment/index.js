@@ -15,7 +15,6 @@ const Comment = ({comment}) => {
 		setShowReply(prev => !prev);
 	};
 
-
 	const handleAddReply = (id, newReplyContent) => {
 		const updatedComments = comments.map(c => {
 			if (c.id === id) {
